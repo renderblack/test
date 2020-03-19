@@ -19,3 +19,4 @@ if question1=='需要':
 else:
     print('好的，再见。')
 time.sleep(5)
+ok
